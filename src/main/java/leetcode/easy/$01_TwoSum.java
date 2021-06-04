@@ -1,10 +1,10 @@
-package leetcode.solution;
+package leetcode.easy;
 
 import org.junit.Test;
 
 import java.util.HashMap;
 
-public class TwoSum {
+public class $01_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] result = {0, 1};
         if (nums.length == 2) {

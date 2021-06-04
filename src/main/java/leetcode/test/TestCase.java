@@ -1,10 +1,7 @@
 package leetcode.test;
 
-import leetcode.solution.$03_LengthOfLongestSubstring;
-import leetcode.solution.TwoSum;
+import leetcode.median.$03_LengthOfLongestSubstring;
 import org.junit.Test;
-
-import java.util.Arrays;
 
 public class TestCase {
     @Test

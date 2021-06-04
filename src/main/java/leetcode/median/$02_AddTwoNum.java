@@ -1,4 +1,4 @@
-package leetcode.solution;
+package leetcode.median;
 
 import leetcode.base.ListNode;
 

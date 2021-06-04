@@ -1,4 +1,4 @@
-package leetcode.solution;
+package leetcode.median;
 
 import java.util.ArrayList;
 import java.util.Comparator;
